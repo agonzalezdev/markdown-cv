@@ -11,18 +11,64 @@ Fullstack Developer
 | <a href="https://www.linkedin.com/in/alex-gonzalez-dev/">My LinkedIn profile</a>
 </div>
 
+## 🚀 About Me
 
-## Currently
+I'm a full stack developer that loves coding and always is looking for new challenges.
+Since I was a child, I have always been passionate about technology, and it is what I like to do the most
+
+## Currently 👨🏻‍💻
 
 Im fullstack developer at Tiendeo Web Marketing mainly using .NET, .NET Core, React & NodeJS
 
-## Specialized in
+## Specialized in 🎯 
  - Backend: .NET, .NET Core & NodeJS.
  - Frontend: Javascript, React, Typescript, Redux, CSS
  - BBDD: PGSQL, MSSQL, MySQL, Redis
  - Other: Docker, K8S, Jenkins, Kibana, Sentry 
 
-## Occupation
+## Tech skills 🦾
+- Backend Development ( +4 yrs exp)
+- Frontend Development ( +2 yrs exp)
+- SQL & NoSQL Databases
+- Docker & K8s
+- Team player
+
+### Programming languages ✍
+- Most value:
+  - C#
+    - .NET Framework 3+
+    - .NET Core 2 3 & 5
+  - Javascript
+    - Node.js
+    - React.js
+  - TypeScript
+  - Docker
+  - RabbitMQ
+- Others:
+  - PHP
+
+### Other tech knowledges ✨
+- BBDD:
+  - PostgreSQL
+  - MSSQL
+  - MySQL
+  - Redis
+  - GraphQL
+- Docker
+- Kubernetes
+- Git
+- Bash script
+- AWS
+  - S3
+- Google Api
+  - Vision API
+  - Authorization API
+- Jenkins
+- API Rest
+- JSON
+- YAML
+
+## Occupation 👷‍♂️
 
 `2019 - NOW`
 __Tiendeo__  
@@ -65,7 +111,7 @@ __Burras Motorcycles__
 - Web development
 - System admin
 
-## Education
+## Education 📐
 
 `2014-2017` 
 - Superior Grade at Mobile Apps Developing
@@ -77,4 +123,11 @@ __Burras Motorcycles__
 `2015-NOW`
 - Udemy multiple courses
 - Frontend masters multiplecourses
+
+## Personal interests 👨🏻‍💻
+- Tech 👨🏻‍💻
+- Motor 🚘
+- Music all day 🎶
+- Videogames 🎮
+- Blockchain 📈
 
