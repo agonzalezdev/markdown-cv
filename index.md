@@ -14,40 +14,33 @@ Fullstack Developer
 ## 🚀 About Me
 
 I'm a full stack developer that loves coding and always is looking for new challenges.
-Since I was a child, I have always been passionate about technology, and it is what I like to do the most
+Since I was a child, I have always been passionate about technology, and it is what I like to do the most.
 
 ## Currently 👨🏻‍💻
 
 Im fullstack developer at Tiendeo Web Marketing mainly using .NET, .NET Core, React & NodeJS
 
 ## Specialized in 🎯 
- - Backend: .NET, .NET Core & NodeJS.
- - Frontend: Javascript, React, Typescript, Redux, CSS
+ - Backend development ( +4 yrs exp): .NET, .NET Core & NodeJS.
+ - Frontend development ( +2 yrs exp): Javascript, React, Typescript, Redux, CSS
  - BBDD: PGSQL, MSSQL, MySQL, Redis
  - Other: Docker, K8S, Jenkins, Kibana, Sentry 
 
-## Tech skills 🦾
-- Backend Development ( +4 yrs exp)
-- Frontend Development ( +2 yrs exp)
-- SQL & NoSQL Databases
-- Docker & K8s
-- Team player
-
-### Programming languages ✍
+## Tech stack ✍
 - Most value:
   - C#
     - .NET Framework 3+
     - .NET Core 2 3 & 5
   - Javascript
-    - Node.js
-    - React.js
+    - NodeJS
+    - ReactJS
   - TypeScript
   - Docker
   - RabbitMQ
 - Others:
   - PHP
 
-### Other tech knowledges ✨
+## Other tech knowledges ✨
 - BBDD:
   - PostgreSQL
   - MSSQL
@@ -59,10 +52,8 @@ Im fullstack developer at Tiendeo Web Marketing mainly using .NET, .NET Core, Re
 - Git
 - Bash script
 - AWS
-  - S3
-- Google Api
-  - Vision API
-  - Authorization API
+- Google Vision Api
+- Google Authorization API
 - Jenkins
 - API Rest
 - JSON
