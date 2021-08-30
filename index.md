@@ -68,15 +68,13 @@ __Burras Motorcycles__
 ## Education
 
 `2014-2017` 
-__Superior Grade__
--Mobile Apps Developing
--Web Developing
+- Superior Grade at Mobile Apps Developing
+- Superior Grade at Mobile Web Developing
 
 `2012-2014`
-__Medium Grade__
--Tech systems and networks
+- Medium grade at Tech systems and networks
 
 `2015-NOW`
--Udemy multiple courses
--Frontend masters multiplecourses
+- Udemy multiple courses
+- Frontend masters multiplecourses
 
