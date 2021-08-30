@@ -18,7 +18,7 @@ Since I was a child, I have always been passionate about technology, and it is w
 
 ## Currently 👨🏻‍💻
 
-Im fullstack developer at Tiendeo Web Marketing mainly using .NET, .NET Core, React & NodeJS
+Fullstack developer at Tiendeo Web Marketing mainly using .NET, .NET Core, React & NodeJS
 
 ## Specialized in 🎯 
 - Backend development ( +4 yrs exp): .NET, .NET Core & NodeJS.
