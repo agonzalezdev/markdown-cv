@@ -16,7 +16,7 @@ Fullstack Developer
 
 Im fullstack developer at Tiendeo Web Marketing mainly using .NET, .NET Core, React & NodeJS
 
-### Specialized in
+## Specialized in
  - Backend: .NET, .NET Core & NodeJS.
  - Frontend: Javascript, React, Typescript, Redux, CSS
  - BBDD: PGSQL, MSSQL, MySQL, Redis
