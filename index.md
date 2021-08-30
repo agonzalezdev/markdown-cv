@@ -24,7 +24,7 @@ Im fullstack developer at Tiendeo Web Marketing mainly using .NET, .NET Core, Re
 
 ## Occupation
 
-`2019-07-31 - NOW`
+`2019 - NOW`
 __Tiendeo__  
 - .NET Core 3+ multiple backend applications  
 - ReactJS & TypeScript multiple frontend applications  
