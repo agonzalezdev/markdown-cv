@@ -21,43 +21,10 @@ Since I was a child, I have always been passionate about technology, and it is w
 Im fullstack developer at Tiendeo Web Marketing mainly using .NET, .NET Core, React & NodeJS
 
 ## Specialized in 🎯 
- - Backend development ( +4 yrs exp): .NET, .NET Core & NodeJS.
- - Frontend development ( +2 yrs exp): Javascript, React, Typescript, Redux, CSS
- - BBDD: PGSQL, MSSQL, MySQL, Redis
- - Other: Docker, K8S, Jenkins, Kibana, Sentry 
-
-## Tech stack ✍
-- Most value:
-  - C#
-    - .NET Framework 3+
-    - .NET Core 2 3 & 5
-  - Javascript
-    - NodeJS
-    - ReactJS
-  - TypeScript
-  - Docker
-  - RabbitMQ
-- Others:
-  - PHP
-
-## Other tech knowledges ✨
-- BBDD:
-  - PostgreSQL
-  - MSSQL
-  - MySQL
-  - Redis
-  - GraphQL
-- Docker
-- Kubernetes
-- Git
-- Bash script
-- AWS
-- Google Vision Api
-- Google Authorization API
-- Jenkins
-- API Rest
-- JSON
-- YAML
+- Backend development ( +4 yrs exp): .NET, .NET Core & NodeJS.
+- Frontend development ( +2 yrs exp): Javascript, React, Typescript, Redux, CSS
+- BBDD: PGSQL, MSSQL, MySQL, Redis
+- Other: Docker, K8S, Jenkins, Kibana, Sentry 
 
 ## Occupation 👷‍♂️
 
@@ -114,6 +81,38 @@ __Burras Motorcycles__
 `2015-NOW`
 - Udemy multiple courses
 - Frontend masters multiplecourses
+
+## Tech stack ✍
+- C#
+  - .NET Framework 3+
+  - .NET Core 2 3 & 5
+- Javascript
+  - NodeJS
+  - ReactJS
+- TypeScript
+- Docker
+- RabbitMQ
+- Others:
+ - PHP
+
+## Other tech knowledges ✨
+- BBDD:
+  - PostgreSQL
+  - MSSQL
+  - MySQL
+  - Redis
+  - GraphQL
+- Docker
+- Kubernetes
+- Git
+- Bash script
+- AWS
+- Google Vision Api
+- Google Authorization API
+- Jenkins
+- API Rest
+- JSON
+- YAML
 
 ## Personal interests 👨🏻‍💻
 - Tech 👨🏻‍💻
