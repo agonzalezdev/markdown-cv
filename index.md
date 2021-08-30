@@ -24,18 +24,19 @@ Im fullstack developer at Tiendeo Web Marketing mainly using .NET, .NET Core, Re
 
 ## Occupation
 
-`2019-07-31 - NOW `
+`2019-07-31 - NOW`
 __Tiendeo__  
-- .NET Core 3+ backend applications  
-- ReactJS & TS frontend applications  
-- Redux, sass, styled-components  
+- .NET Core 3+ multiple backend applications  
+- ReactJS & TypeScript multiple frontend applications  
+- Redux, Next, react-query, sass, styled-components
+- Cypress as fronteng testing framework
 - Cloud microservices integrations
 - Google Vision API OCR  
 - Using RabbitMQ as message protocol  
-- Using Jenkins as CI/CD software
-- Docker containers & images
-- Kubernetes and Kubectl
-- PGSQL script and migration
+- Using Jenkins as CI/CD software with bash scripts
+- Docker containers & images 
+- Kubernetes and Kubectl with helm
+- PGSQL script and migrations creation
 - Optimized SQL queries & SP
 - Docker & K8s YAML templates
 - Git as version control
@@ -43,22 +44,22 @@ __Tiendeo__
 - DI, TDD, MVC, SOLID  
 - Jira as work management software
 
-`2017 - 2019 `
-__Ulbe Group Consulting / TechsBCN __  
+`2017 - 2019`
+__Ulbe Group Consulting / TechsBCN__  
 - .NET Framework backend applications
 - .NET Framework MVC ERP project 
 - Angular web applications
 - EntityFramework ORM
 - HTML + Javascript + CSS/LESS project
 
-`2016 - 2017 `
-__ T2 Study Wealth Managementg__  
+`2016 - 2017`
+__T2 Study Wealth Management__  
 - Internship
 - PHP projects and mantainance
 - VisualBasic .NET, WPF applications
 - TFS as version control
 
-`2016 - 2016 `
+`2016 - 2016`
 __Burras Motorcycles__ 
 - Internship
 - Web development
@@ -67,13 +68,15 @@ __Burras Motorcycles__
 ## Education
 
 `2014-2017` 
-*Superior Grade > Mobile Apps Developing*
-*Superior Grade > Web Developing*
+__Superior Grade__
+-Mobile Apps Developing
+-Web Developing
 
 `2012-2014`
-*Medium Grade > Tech systems and networks*
+__Medium Grade__
+-Tech systems and networks
 
 `2015-NOW`
-*Udemy multiple courses*
-*Frontend masters multiple courses*
+-Udemy multiple courses
+-Frontend masters multiplecourses
 
