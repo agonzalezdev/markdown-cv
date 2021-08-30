@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alex González's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alex González
+Fullstack Developer
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
