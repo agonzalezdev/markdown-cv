@@ -1,0 +1,135 @@
+I"�<h1 id="alex-gonzález">Alex González</h1>
+
+<p>Fullstack Developer<br /></p>
+
+<p>🚩 Cartellá 178 6º 2ª A, 08031, Barcelona, Spain<br />
+📨 <a href="mailto:agonzalezdev33@gmail.com">agonzalezdev33@gmail.com</a><br /></p>
+
+<div id="webaddress">
+  <a href="https://agonzalezdev.github.io"><i class="fas fa-home"></i> My personal website</a> <br />
+  <a href="https://github.com/agonzalezdev"><i class="fab fa-github"></i> agonzalezdev</a> <br />
+  <a href="https://www.linkedin.com/in/alex-gonzalez-dev/"><i class="fab fa-linkedin"></i> My LinkedIn profile </a>  <br />
+  <a href="https://agonzalezdev.github.io/markdown-cv"><i class="far fa-file-alt"></i> Online CV </a> 
+</div>
+
+<h2 id="-about-me">🚀 About Me</h2>
+
+<p>I’m a full stack developer that loves coding and always is looking for new challenges.
+Since I was a child, I have always been passionate about technology, and it is what I like to do the most.</p>
+
+<h2 id="-currently">👨🏻‍💻 Currently</h2>
+
+<p>Fullstack developer at Tiendeo Web Marketing mainly using .NET, .NET Core, React &amp; NodeJS</p>
+
+<h2 id="-specialized-in">🎯 Specialized in</h2>
+
+<ul>
+  <li>Backend ( +4 yrs exp): .NET, .NET Core &amp; NodeJS.</li>
+  <li>Frontend ( +2 yrs exp): Javascript, React, Typescript, Redux, CSS</li>
+  <li>BBDD: PGSQL, MSSQL, MySQL, Redis</li>
+  <li>Other: Docker, K8S, Jenkins, Kibana, Sentry</li>
+</ul>
+
+<h2 id="️-occupation">👷‍♂️ Occupation</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2019 - NOW</code>
+<strong>Tiendeo</strong></p>
+
+<ul>
+  <li>.NET Core 3+ multiple backend applications</li>
+  <li>Legacy .Net Framework applications mantainance</li>
+  <li>Multiple ReactJS &amp; TypeScript frontend applications</li>
+  <li>Creation of .NET Core SAAS software project from scratch</li>
+  <li>Creation of .NET Core OCR application from scratch</li>
+  <li>NodeJS API REST development</li>
+  <li>Using RabbitMQ ( AMQP ) as microservice message protocol</li>
+  <li>Cloud microservices integration</li>
+  <li>Redux, Next, react-query, sass, styled-components</li>
+  <li>Storybook as building UI components software</li>
+  <li>Cypress as fronteng testing framework</li>
+  <li>Docker images &amp; YAMLS development for testing &amp; k8s deploy pipelines.</li>
+  <li>Automated deploy using Jenkins as CI/CD tool w/ bash scripts</li>
+  <li>Kubernetes and Kubectl management with helm</li>
+  <li>PGSQL &amp; MSSQL script and migrations creation</li>
+  <li>Optimizing SQL queries and stored procedures</li>
+  <li>Google Vision API knowledge</li>
+  <li>Git as version control</li>
+  <li>Bash scripting</li>
+  <li>Jira as work management software</li>
+  <li>Contributed to all project phases (analysis,development,test,ops)</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2017 - 2019</code>
+<strong>Ulbe Group Consulting / TechsBCN</strong></p>
+
+<ul>
+  <li>.NET Framework MVC ERP project from scratch</li>
+  <li>Multiple .NET Framework backend applications</li>
+  <li>Building integration tests with xUnit</li>
+  <li>MSSQL &amp; MySQL as database system</li>
+  <li>Responsible for direct communication with the clients</li>
+  <li>Angular web applications</li>
+  <li>Using EntityFramework as ORM</li>
+  <li>Building Bamboo pipelines for CI/CD</li>
+  <li>Front stack HTML + Javascript + CSS/LESS</li>
+  <li>Jira as work management software</li>
+  <li>Angular 7, jQuery, Javascript</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2016 - 2017</code>
+<strong>T2 Study Wealth Management</strong></p>
+
+<ul>
+  <li>Internship</li>
+  <li>Small Internship team lead</li>
+  <li>PHP projects and mantainance</li>
+  <li>VisualBasic .NET, WPF applications</li>
+  <li>TFS as version control</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2016 - 2016</code>
+<strong>Burras Motorcycles</strong></p>
+
+<ul>
+  <li>Internship</li>
+  <li>Website development</li>
+  <li>System admin</li>
+</ul>
+
+<h2 id="-education">📐 Education</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2014-2017</code>
+<strong>Bemen3</strong></p>
+
+<ul>
+  <li>Superior Grade at Mobile Apps Developing</li>
+  <li>Superior Grade at Mobile Web Developing</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2012-2014</code>
+<strong>Bemen3</strong></p>
+
+<ul>
+  <li>Medium grade at Tech systems and networks</li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2015-NOW</code>
+<strong>Udemy, frontend masters</strong></p>
+
+<ul>
+  <li>Multiple frontend courses</li>
+  <li>Multiple backend courses</li>
+</ul>
+
+<h2 id="-personal-interests">👨🏻‍💻 Personal interests</h2>
+
+<p><strong>More about me</strong></p>
+
+<ul>
+  <li>Tech passionate 👨🏻‍💻</li>
+  <li>Motor 🚘</li>
+  <li>Music all day 🎶</li>
+  <li>Videogames 🎮</li>
+  <li>Blockchain 📈</li>
+</ul>
+:ET

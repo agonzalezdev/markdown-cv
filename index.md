@@ -2,13 +2,19 @@
 layout: cv
 title: Alex González's CV
 ---
+
 # Alex González
-Fullstack Developer
+
+Fullstack Developer<br/>
+
+🚩 Cartellá 178 6º 2ª A, 08031, Barcelona, Spain<br/>
+📨 <a href="mailto:agonzalezdev33@gmail.com">agonzalezdev33@gmail.com</a><br/>
 
 <div id="webaddress">
-<a href="agonzalezdev33@gmail.com">agonzalezdev33@gmail.com</a>
-| <a href="https://agonzalezdev.github.io/">My personal website</a>
-| <a href="https://www.linkedin.com/in/alex-gonzalez-dev/">My LinkedIn profile</a>
+  <a href="https://agonzalezdev.github.io"><i class="fas fa-home"></i> My personal website</a> <br/>
+  <a href="https://github.com/agonzalezdev"><i class="fab fa-github"></i> agonzalezdev</a> <br/>
+  <a href="https://www.linkedin.com/in/alex-gonzalez-dev/"><i class="fab fa-linkedin"></i> My LinkedIn profile </a>  <br/>
+  <a href="https://agonzalezdev.github.io/markdown-cv"><i class="far fa-file-alt"></i> Online CV </a> 
 </div>
 
 ## 🚀 About Me
@@ -16,108 +22,100 @@ Fullstack Developer
 I'm a full stack developer that loves coding and always is looking for new challenges.
 Since I was a child, I have always been passionate about technology, and it is what I like to do the most.
 
-## Currently 👨🏻‍💻
+## 👨🏻‍💻 Currently
 
 Fullstack developer at Tiendeo Web Marketing mainly using .NET, .NET Core, React & NodeJS
 
-## Specialized in 🎯 
-- Backend development ( +4 yrs exp): .NET, .NET Core & NodeJS.
-- Frontend development ( +2 yrs exp): Javascript, React, Typescript, Redux, CSS
-- BBDD: PGSQL, MSSQL, MySQL, Redis
-- Other: Docker, K8S, Jenkins, Kibana, Sentry 
+## 🎯 Specialized in
 
-## Occupation 👷‍♂️
+- Backend ( +4 yrs exp): .NET, .NET Core & NodeJS.
+- Frontend ( +2 yrs exp): Javascript, React, Typescript, Redux, CSS
+- BBDD: PGSQL, MSSQL, MySQL, Redis
+- Other: Docker, K8S, Jenkins, Kibana, Sentry
+
+## 👷‍♂️ Occupation
 
 `2019 - NOW`
-__Tiendeo__  
-- .NET Core 3+ multiple backend applications  
-- ReactJS & TypeScript multiple frontend applications  
+**Tiendeo**
+
+- .NET Core 3+ multiple backend applications
+- Legacy .Net Framework applications mantainance
+- Multiple ReactJS & TypeScript frontend applications
+- Creation of .NET Core SAAS software project from scratch
+- Creation of .NET Core OCR application from scratch
+- NodeJS API REST development
+- Using RabbitMQ ( AMQP ) as microservice message protocol
+- Cloud microservices integration
 - Redux, Next, react-query, sass, styled-components
+- Storybook as building UI components software
 - Cypress as fronteng testing framework
-- Cloud microservices integrations
-- Google Vision API OCR  
-- Using RabbitMQ as message protocol  
-- Using Jenkins as CI/CD software with bash scripts
-- Docker containers & images 
-- Kubernetes and Kubectl with helm
-- PGSQL script and migrations creation
-- Optimized SQL queries & SP
-- Docker & K8s YAML templates
+- Docker images & YAMLS development for testing & k8s deploy pipelines.
+- Automated deploy using Jenkins as CI/CD tool w/ bash scripts
+- Kubernetes and Kubectl management with helm
+- PGSQL & MSSQL script and migrations creation
+- Optimizing SQL queries and stored procedures
+- Google Vision API knowledge
 - Git as version control
 - Bash scripting
-- DI, TDD, MVC, SOLID  
 - Jira as work management software
+- Contributed to all project phases (analysis,development,test,ops)
 
 `2017 - 2019`
-__Ulbe Group Consulting / TechsBCN__  
-- .NET Framework backend applications
-- .NET Framework MVC ERP project 
+**Ulbe Group Consulting / TechsBCN**
+
+- .NET Framework MVC ERP project from scratch
+- Multiple .NET Framework backend applications
+- Building integration tests with xUnit
+- MSSQL & MySQL as database system
+- Responsible for direct communication with the clients
 - Angular web applications
-- EntityFramework ORM
-- HTML + Javascript + CSS/LESS project
+- Using EntityFramework as ORM
+- Building Bamboo pipelines for CI/CD
+- Front stack HTML + Javascript + CSS/LESS
+- Jira as work management software
+- Angular 7, jQuery, Javascript
 
 `2016 - 2017`
-__T2 Study Wealth Management__  
+**T2 Study Wealth Management**
+
 - Internship
+- Small Internship team lead
 - PHP projects and mantainance
 - VisualBasic .NET, WPF applications
 - TFS as version control
 
 `2016 - 2016`
-__Burras Motorcycles__ 
+**Burras Motorcycles**
+
 - Internship
-- Web development
+- Website development
 - System admin
 
-## Education 📐
+## 📐 Education
 
-`2014-2017` 
+`2014-2017`
+**Bemen3**
+
 - Superior Grade at Mobile Apps Developing
 - Superior Grade at Mobile Web Developing
 
 `2012-2014`
+**Bemen3**
+
 - Medium grade at Tech systems and networks
 
 `2015-NOW`
-- Udemy multiple courses
-- Frontend masters multiplecourses
+**Udemy, frontend masters**
 
-## Tech stack ✍
-- C#
-  - .NET Framework 3+
-  - .NET Core 2 3 & 5
-- Javascript
-  - NodeJS
-  - ReactJS
-- TypeScript
-- Docker
-- RabbitMQ
-- Others:
- - PHP
+- Multiple frontend courses
+- Multiple backend courses
 
-## Other tech knowledges ✨
-- BBDD:
-  - PostgreSQL
-  - MSSQL
-  - MySQL
-  - Redis
-  - GraphQL
-- Docker
-- Kubernetes
-- Git
-- Bash script
-- AWS
-- Google Vision Api
-- Google Authorization API
-- Jenkins
-- API Rest
-- JSON
-- YAML
+## 👨🏻‍💻 Personal interests
 
-## Personal interests 👨🏻‍💻
-- Tech 👨🏻‍💻
+**More about me**
+
+- Tech passionate 👨🏻‍💻
 - Motor 🚘
 - Music all day 🎶
 - Videogames 🎮
 - Blockchain 📈
-
